@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DREAM",
+  "base_artist": "BABYMONSTER",
+  "createdAt": "2026-02-06T12:13:18.372742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dream in Color",
+      "artist": "HALIENE",
+      "has_synced": true,
+      "path": "select/01_Dream_in_Color_HALIENE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life's a Dream",
+      "artist": "The Polar Boys",
+      "has_synced": true,
+      "path": "select/02_Life's_a_Dream_The_Polar_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Livin’ The Dream",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/03_Livin’_The_Dream_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "fever dream",
+      "artist": "mxmtoon",
+      "has_synced": true,
+      "path": "select/04_fever_dream_mxmtoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paper Mache Dream Balloon",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Paper_Mache_Dream_Balloon_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Have To Do Is Dream",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/06_All_I_Have_To_Do_Is_Dream_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Have to Do Is Dream",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/07_All_I_Have_to_Do_Is_Dream_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dream Walkin'",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/08_Dream_Walkin'_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dream Walkin' (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/09_Dream_Walkin'_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dream, Girl",
+      "artist": "Hailey Whitters",
+      "has_synced": false,
+      "path": "select/10_Dream,_Girl_Hailey_Whitters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drift Off To Dream",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/11_Drift_Off_To_Dream_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drift off to Dream",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/12_Drift_off_to_Dream_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just a Dream",
+      "artist": "Carrie Underwood",
+      "has_synced": false,
+      "path": "select/13_Just_a_Dream_Carrie_Underwood.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Red White Blue Jean American Dream",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/14_Red_White_Blue_Jean_American_Dream_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Someone Else's Dream",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/15_Someone_Else's_Dream_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Someone Else's Dream (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/16_Someone_Else's_Dream_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DREAM",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/pl_01_DREAM_BABYMONSTER.txt"
+    }
+  ]
+}
